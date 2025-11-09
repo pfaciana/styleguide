@@ -1,0 +1,13 @@
+{
+	"name": "styleguide",
+	"version": "0.1.0",
+	"description": "A snapshot testing framework for TUI (Terminal User Interface) BASH scripts applications with full ANSI color support",
+	"global": false,
+	"files": [
+		"bash/FULL.md",
+		"bash/COMPACT.md",
+		"bash/REFERENCE.md",
+		"LICENSE",
+		"README.md"
+	]
+}
